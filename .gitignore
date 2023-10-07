@@ -1,0 +1,4 @@
+output*.csv
+20*.csv
+
+.DS_Store
