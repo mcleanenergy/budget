@@ -1,4 +1,2 @@
-output*.csv
-20*.csv
-
+*.csv
 .DS_Store
